@@ -1,0 +1,1 @@
+Crea un documento HTML suficiente para reproducir la estructura de la imagen "resultadoEsperado.png"
