@@ -1,0 +1,37 @@
+body{
+    background-color: #cccccc;
+}
+
+h1{
+    text-align: center;
+}
+.naranja{
+    background-color: #ffd580;
+    border: 2px solid #806633;
+    text-align: center;
+}
+.verde{
+    background-color: #80ff80;
+    border: 2px solid #338033;
+    text-align: center;
+}
+.amarillo{
+    background-color: #ffff80;
+    border: 2px solid #d9d940;
+    text-align: left;
+}
+.azul{
+    background-color: #ccffff;
+    border: 2px solid #99cccc;
+    text-align: right;
+}
+.lila{
+    background-color: #ffe6ff;
+    border: 2px solid #bfa6bf;
+    text-align: left;
+}
+.rojo{
+    background-color: #ffb3b3;
+    border: 2px solid #806666;
+    text-align: right;
+}
