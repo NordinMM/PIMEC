@@ -1,5 +1,6 @@
 body{
     background-color: #cccccc;
+    font-family: sans-serif;
 }
 
 h1{
@@ -9,6 +10,10 @@ h1{
     background-color: #ffd580;
     border: 2px solid #806633;
     text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 12%;
+    width: 85%;
 }
 .verde{
     background-color: #80ff80;
